@@ -7,6 +7,8 @@
 - 课程：开源创新思维
 - 项目选题：商品上架与资料审核
 - GitHub 主页：https://github.com/WforovZ888
+- 项目仓库：https://github.com/WforovZ888/product-review-mvp
+- 在线演示：https://wforovz888.github.io/product-review-mvp/
 
 ## 项目完成情况
 
@@ -26,9 +28,9 @@
 
 ## 发布前待处理
 
-- [ ] 创建公开 GitHub 仓库
-- [ ] 推送源码
-- [ ] 开启 GitHub Pages
-- [ ] 验证公开部署地址
+- [x] 创建公开 GitHub 仓库
+- [x] 推送源码
+- [x] 开启 GitHub Pages
+- [x] 验证公开部署地址
 - [ ] 发布技术博客并回填链接
 - [ ] 完成开源认知考核并上传证明
