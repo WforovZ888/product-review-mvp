@@ -5,6 +5,7 @@
 ## 在线体验
 
 - 在线演示：https://wforovz888.github.io/product-review-mvp/
+- 技术博客：https://wforovz888.github.io/product-review-mvp/blog.html
 - 项目仓库：https://github.com/WforovZ888/product-review-mvp
 
 当前版本是纯前端应用，演示数据保存在浏览器 `localStorage`，无需服务器或数据库。
